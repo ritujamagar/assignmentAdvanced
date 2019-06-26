@@ -2,7 +2,7 @@ import React from 'react';
 import './UserCard.css';
 import CollectionCreateForm from './CollectionCreateFrom';
 
-import {Card,Icon,Col,Dropdown} from 'antd';
+import {Card,Icon,Col} from 'antd';
 
 
 
